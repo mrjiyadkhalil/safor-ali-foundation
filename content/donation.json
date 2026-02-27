@@ -1,0 +1,18 @@
+{
+  "instructions": "Your generous contribution helps us continue our mission of empowering underprivileged communities. Every donation, no matter how small, makes a real difference in someone's life. You can donate through any of the following methods:",
+  "methods": [
+    {
+      "type": "bKash",
+      "details": "Send your donation to our bKash number: 01700-000000 (Personal). Please use 'Donation' as the reference."
+    },
+    {
+      "type": "Nagad",
+      "details": "Send your donation to our Nagad number: 01700-000000 (Personal). Please use 'Donation' as the reference."
+    },
+    {
+      "type": "Bank Transfer",
+      "details": "Bank: Sonali Bank Ltd.\nBranch: Main Branch, Dhaka\nAccount Name: Safor Ali Foundation\nAccount Number: 1234567890\nRouting Number: 123456789"
+    }
+  ],
+  "transparencyNote": "We maintain complete financial transparency. All donations are recorded and tracked. Quarterly financial reports are published on our website and shared with donors. At least 85% of all donations go directly to program activities, with the remainder used for essential administrative costs."
+}
