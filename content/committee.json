@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Safor Ali",
+    "role": "Founder & Chairman",
+    "photo": "",
+    "bio": "A visionary leader committed to social change, Safor Ali established the foundation to serve underprivileged communities and create lasting impact."
+  },
+  {
+    "name": "Rahim Uddin",
+    "role": "Vice Chairman",
+    "photo": "",
+    "bio": "With over 15 years of experience in community development, Rahim brings strategic vision and operational expertise to the foundation."
+  },
+  {
+    "name": "Fatima Begum",
+    "role": "Secretary General",
+    "photo": "",
+    "bio": "Fatima oversees the day-to-day operations of the foundation, ensuring every program runs efficiently and reaches its intended beneficiaries."
+  },
+  {
+    "name": "Kamal Hossain",
+    "role": "Treasurer",
+    "photo": "",
+    "bio": "As treasurer, Kamal ensures financial transparency and accountability in all foundation activities and fund management."
+  },
+  {
+    "name": "Nasreen Akter",
+    "role": "Education Coordinator",
+    "photo": "",
+    "bio": "Nasreen leads our education initiatives, designing programs that provide quality learning opportunities for underserved children."
+  },
+  {
+    "name": "Mizanur Rahman",
+    "role": "Community Outreach Director",
+    "photo": "",
+    "bio": "Mizanur connects the foundation with local communities, identifying needs and building partnerships for greater impact."
+  }
+]
