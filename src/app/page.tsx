@@ -2,7 +2,10 @@ import Link from "next/link";
 import siteData from "../../content/site.json";
 import announcements from "../../content/announcements.json";
 import activity from "../../content/activity.json";
-import gallery from "../../content/gallery.json";
+import galleryData from "../../content/gallery.json";
+
+type GalleryItem = { src: string; alt: string };
+const gallery: GalleryItem[] = galleryData as GalleryItem[];
 
 export default function Home() {
   const latestAnnouncements = [...announcements]
