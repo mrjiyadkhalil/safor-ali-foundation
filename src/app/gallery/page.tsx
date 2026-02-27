@@ -1,7 +1,10 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
-import gallery from "../../../content/gallery.json";
+import galleryData from "../../../content/gallery.json";
+
+type GalleryItem = { src: string; alt: string };
+const gallery: GalleryItem[] = galleryData as GalleryItem[];
 
 export default function GalleryPage() {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
