@@ -6,10 +6,6 @@
       "details": "Send your donation to our bKash number: 01700-000000 (Personal). Please use 'Donation' as the reference."
     },
     {
-      "type": "Nagad",
-      "details": "Send your donation to our Nagad number: 01700-000000 (Personal). Please use 'Donation' as the reference."
-    },
-    {
       "type": "Bank Transfer",
       "details": "Bank: Sonali Bank Ltd.\nBranch: Main Branch, Dhaka\nAccount Name: Safor Ali Foundation\nAccount Number: 1234567890\nRouting Number: 123456789"
     }
