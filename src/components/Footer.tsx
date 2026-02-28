@@ -59,7 +59,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} {siteData.foundationName}. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} {siteData.foundationName}. By Md Jiyad Khalil</p>
         </div>
       </div>
     </footer>
