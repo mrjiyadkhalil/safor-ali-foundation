@@ -41,10 +41,10 @@ export default function AboutPage() {
 
       <section className="py-16 md:py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">
+          <h2 className="text-3xl font-bold text-center text-gray-900 mb-6">
             Executive Committee
           </h2>
-          <h3 className="text-2xl font-bold text-center text-gray-900 mb-12">
+          <h3 className="text-1xl font-bold text-center text-gray-900 mb-12">
             2025-2026
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
