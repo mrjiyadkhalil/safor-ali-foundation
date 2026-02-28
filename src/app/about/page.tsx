@@ -4,7 +4,7 @@ import committee from "../../../content/committee.json";
 
 export const metadata: Metadata = {
   title: "About Us",
-  description: "Learn about the Safor Ali Foundation, our mission, vision, and the executive committee members leading our efforts.",
+  description: "Learn about the Safar Ali Foundation, our mission, vision, and the executive committee members leading our efforts.",
 };
 
 export default function AboutPage() {

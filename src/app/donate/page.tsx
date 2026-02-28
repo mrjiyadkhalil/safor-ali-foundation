@@ -3,7 +3,7 @@ import donation from "../../../content/donation.json";
 
 export const metadata: Metadata = {
   title: "Donate",
-  description: "Support the Safor Ali Foundation. Find out how you can contribute through bKash, Nagad, or bank transfer.",
+  description: "Support the Safar Ali Foundation. Find out how you can contribute through bKash, Nagad, or bank transfer.",
 };
 
 export default function DonatePage() {

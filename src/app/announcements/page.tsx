@@ -3,7 +3,7 @@ import announcements from "../../../content/announcements.json";
 
 export const metadata: Metadata = {
   title: "Announcements",
-  description: "Stay updated with the latest announcements and news from the Safor Ali Foundation.",
+  description: "Stay updated with the latest announcements and news from the Safar Ali Foundation.",
 };
 
 export default function AnnouncementsPage() {

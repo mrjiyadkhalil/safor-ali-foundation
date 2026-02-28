@@ -9,13 +9,13 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: {
     default: "Safar Ali Foundation",
-    template: "%s | Safor Ali Foundation",
+    template: "%s | Safar Ali Foundation",
   },
   description: "Empowering communities through education, healthcare, and sustainable development for a brighter tomorrow.",
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "Safor Ali Foundation",
+    siteName: "Safar Ali Foundation",
   },
 };
 

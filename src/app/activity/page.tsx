@@ -3,7 +3,7 @@ import activity from "../../../content/activity.json";
 
 export const metadata: Metadata = {
   title: "Our Activity",
-  description: "Learn about the Safor Ali Foundation's main activity and the impact we're making in the community.",
+  description: "Learn about the Safar Ali Foundation's main activity and the impact we're making in the community.",
 };
 
 export default function ActivityPage() {

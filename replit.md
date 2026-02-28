@@ -1,7 +1,7 @@
-# Safor Ali Foundation Website
+# Safar Ali Foundation Website
 
 ## Overview
-A front-end-only NGO website for the Safor Ali Foundation built with Next.js 14 (App Router) + TailwindCSS.
+A front-end-only NGO website for the Safar Ali Foundation built with Next.js 14 (App Router) + TailwindCSS.
 
 ## Stack
 - **Framework**: Next.js 14 with App Router

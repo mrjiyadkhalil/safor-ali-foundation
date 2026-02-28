@@ -27,7 +27,7 @@ export default function Navbar() {
               <span className="text-white font-bold text-sm">SF</span>
             </div>
             <span className="font-bold text-lg text-gray-900 hidden sm:block">
-              Safor Ali Foundation
+              Safar Ali Foundation
             </span>
             <span className="font-bold text-lg text-gray-900 sm:hidden">SAF</span>
           </Link>
